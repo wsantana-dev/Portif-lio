@@ -1,0 +1,173 @@
+body {
+
+    width: 1497px;
+    background-image: url('IdeonMedia_Home_BG-scaled.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: left center;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    color: WHITE;
+    font-family: sans-serif;
+   margin-bottom: 150px;
+   
+
+
+}
+
+.logoinicio {
+
+margin-top: 15px;
+height: 100px;
+
+}
+
+
+.titulo {
+
+    padding-bottom: 0px;
+    background-image: url('fundo-do-conceito-de-tecnologia-digital_52683-35037.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: left top;
+    margin-bottom: 52px;
+    border-bottom: 3px white solid;
+    padding-top: 0px;
+    margin-top: 0px;
+    padding-left: 0px;
+    height: 120px;
+    display: flex
+    
+
+}
+
+
+
+
+
+.java_img {
+
+    width: 1498px;
+    height: 496px;
+
+}
+
+.professor {
+
+        margin-left: -570px; 
+    
+}
+
+.pcalendario {
+
+color: white;
+margin-left: 5px;
+
+}
+
+.calendario {
+
+    margin-left: 450px;
+}
+
+.div1 {
+
+    display: flex;
+    align-items: center;
+}
+
+.cor {
+
+    display: flex;
+    margin-left: 150px;
+    margin-top: 25px;
+}
+
+.escrita {
+
+    font-family: sans-serif;
+    font-variant: small-caps;
+    font-size: 18px;
+}
+
+.prof {
+
+    display: flex;
+    height: 300px;
+    margin-left: 150px;
+    margin-top: 150px;
+    margin-right: 0px
+   
+}
+
+.augusto {
+
+  margin-top: 60px;
+  margin-left: 40px;
+  font-weight: normal;
+    
+}
+
+.div2 {
+
+    display: flex;
+    align-items: center;
+
+}
+
+.hora {
+    color: white;
+margin-left: 5px;
+}
+
+.relogio1 {
+
+    margin-left: 450px;
+
+}
+
+.div3 {
+
+    display: flex;
+    align-items: center;
+
+}
+.localizacao {
+    margin-left: 450px;
+}
+
+.localizacao1 {
+    color: white;
+    margin-left: 5px;
+
+}
+
+.botao {
+
+    background-image: url('fundo-do-conceito-de-tecnologia-digital_52683-35037.avif');
+    background-position: right top;
+    margin-top: 50px;
+    font-size: 25px;
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+    border-radius: 25px;
+    padding-right: 30px;
+    padding-left: 30px;
+    
+
+}
+
+a:hover {
+
+    color: blue;
+
+}
+
+.botao1 {
+
+    margin-top: 80px;
+}

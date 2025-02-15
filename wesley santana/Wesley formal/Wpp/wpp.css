@@ -1,0 +1,28 @@
+
+body {
+
+margin: 0px;
+background-color: black;
+
+
+
+
+}
+
+
+
+
+
+
+.img {
+
+    background-image: url('Imgwpp.jpg');
+    background-size: 509px;
+    padding-bottom: 950px;
+    
+    background-repeat: no-repeat;
+    background-position: 400px;
+
+
+
+}

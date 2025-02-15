@@ -1,0 +1,280 @@
+body {
+
+
+    width: 1492px;
+    background-image: url('IdeonMedia_Home_BG-scaled.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: left center;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 150px;
+    color: WHITE;
+    font-family: sans-serif;
+   margin-bottom: 150px;
+   
+
+
+}
+
+.logoinicio {
+
+margin-top: 15px;
+height: 100px;
+
+
+
+}
+
+
+.titulo {
+
+
+
+    
+    padding-bottom: 0px;
+    background-image: url('fundo-do-conceito-de-tecnologia-digital_52683-35037.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: left top;
+    margin-bottom: 52px;
+    border-bottom: 3px white solid;
+    padding-top: 0px;
+    margin-top: 0px;
+    padding-left: 0px;
+    height: 120px;
+    display: flex
+    }
+
+
+.imgcentral { 
+
+
+margin-top: 50px;
+width: 1492px;
+
+
+}
+
+
+p {
+font-variant: small-caps;
+font-size: 20px;
+
+}
+
+.tagp  {
+
+    margin-left: 15;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 0px;
+    font-variant: small-caps;
+
+
+
+
+}
+
+.professora {
+    background-color: yellow;
+    width: 290px;
+    height: 290px;
+    margin-right: 0px;
+    float: left;
+    margin-left: 0px;
+    
+}
+
+
+h2 {
+
+font-family: sans-serif;
+font-variant: small-caps;
+
+
+}
+p1 {
+
+    font-family: sans-serif;
+    font-variant: small-caps;
+    margin-top: 100px;
+    margin-left: 150px;
+    font-weight: normal;
+
+}
+
+.div1 {
+
+display: flex;
+align-items: center;
+
+}
+
+.calendario{
+
+margin-left: 450px;
+
+
+}
+
+.bcalendario {
+
+
+    margin-left: 15px;
+    font-family: sans-serif;
+    font-variant: small-caps;
+
+
+
+}
+
+.div2 {
+
+    display: flex;
+    align-items: center;
+
+}
+
+
+
+
+
+
+.relogio {
+
+    margin-left: 450px;
+
+}
+
+
+.prof {
+
+    display: flex;
+    height: 300px;
+    margin-left: 150px;
+    margin-top: 150px;
+    margin-right: 0px
+
+}
+
+.paragrafoprof {
+
+    margin-top: 60px;
+    margin-left: 40px;
+    font-weight: normal
+
+}
+
+
+
+.brelogio {
+    
+    font-family: sans-serif;
+    font-variant: small-caps;
+    margin-left: 15px;
+
+}
+
+
+
+
+.letrasaolado {
+
+ display: flex;
+    background-color: blue;
+float: right;
+margin-top: 100px;
+margin-left: 0px;
+
+
+
+
+}
+ 
+
+
+.div3 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 80px;
+
+
+
+
+
+}
+
+
+
+
+.localizacão {
+
+    margin-left: 450px;
+    /*esse é para deixar a imagem abaixo
+    da foto da professora certinho*/
+
+}
+
+
+
+
+
+.plocalizaçao {
+
+    margin-left: 15px;
+    font-family: sans-serif;
+    font-variant: small-caps;
+
+/*esses 15px é para dar uma distancia
+da imagem de localização */
+}
+
+
+
+a:hover {
+    color:blue;
+}
+
+
+
+
+
+
+.inscrever {
+
+  background-image: url(fundo-do-conceito-de-tecnologia-digital_52683-35037.avif);
+  background-size: cover; 
+  background-position:  right top ;
+  display: inline;
+  padding: 20px 50px;
+  font-size: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:white;
+  text-decoration: none;
+  margin-bottom: 150px;
+  margin-left: 600px;
+  border-radius: 30px;
+  margin-bottom: 150px;
+}
+
+.fim {
+
+display: flex;
+margin-bottom: 150px;
+
+/*div para dar uma distancia e não 
+ficar colado no fim da tela */
+}
+
+
+
+
+
+
+
+

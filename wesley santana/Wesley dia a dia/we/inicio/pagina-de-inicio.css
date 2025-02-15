@@ -1,0 +1,358 @@
+
+body {
+
+    margin-top: 0px;
+background-image: url('IdeonMedia_Home_BG-scaled.jpg');
+background-position: right center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+margin-right: 0px;
+margin-left: 0px;
+width: 1496px;
+margin-bottom: 0px;
+
+
+}
+
+
+.technology {
+
+display: flex;
+margin-left: 0px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.inicio {
+
+display: flex
+width: 1483px;
+
+
+
+
+
+}
+
+
+
+
+
+
+.titulo {
+
+        margin-top: 15px;
+    height: 100px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 800px;
+    display: flex
+    
+    
+ 
+
+
+
+
+
+}
+
+
+
+.westudy {
+
+padding-bottom: 0px;
+background-image: url('fundo-do-conceito-de-tecnologia-digital_52683-35037.avif');
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+background-position: left top;
+padding-top: 0px;
+margin-top: 0px;
+padding-left: 0px;
+background-color: rgba(48, 14, 170, 0.87);
+height: 120px;
+display: flex;
+
+
+
+
+
+}
+
+
+
+h1 {
+
+color: rgb(241, 241, 241);
+background-color: #8901b37a;
+margin-top: 0px;
+margin-left: 0px;
+margin-right: 0px;
+margin-bottom: 55px;
+padding: 15px;
+outline: 3px solid  white;
+
+
+
+
+}
+
+img {
+
+margin-left: 3px;
+margin-bottom: 30px;
+
+
+
+}
+
+p {
+
+color: white;
+text-align: center;
+
+
+}
+
+.linguagem {
+
+color: white;
+text-decoration: none;
+border: 3px solid white;
+padding: 4px;
+margin-left: 150px;
+margin-right: 30px;
+margin-top: 70px;
+padding-left: 20px;
+padding-right: 20px;
+text-align: center;
+border-radius: 7px;
+
+
+}
+
+a:hover {
+
+    color: #0000ff;
+}
+
+h2 {
+
+text-align: center;
+color: aliceblue;
+margin-top: 95px;
+
+}
+   
+.entrar {
+
+font-family: sans-serif;
+font-size: 15px;
+display: flex;
+margin-left: 120px;
+color: white;
+text-decoration: none;
+border: rgb(255, 255, 255) solid 3px;
+padding-inline: 20px;
+border-radius: 5px;
+margin-bottom: 50px;
+margin-top: 50px;
+
+
+
+
+
+
+
+}
+
+.cadastrar {
+
+font-family: sans-serif;
+font-size: 15px;
+display: flex;
+margin-left: 25px;
+color: white;
+text-decoration: none;
+border: rgb(255, 255, 255) solid 3px;
+padding-inline: 20px;
+border-radius: 5px;
+margin-bottom: 50px;
+margin-top: 50px;
+
+
+
+
+}
+
+strong {
+
+display: inline-block;
+color: blue;
+padding-right: 0;
+margin-left: 605px;
+padding-right: 0px;
+
+
+
+
+}
+
+.abaixo {
+
+    
+display: flex;
+
+
+
+}  
+
+
+
+
+.abx1 {
+
+    color: blue;
+margin-top: 25px;
+margin-left: 280px;
+font-size: 30px;
+font-family: sans-serif;
+
+
+}
+
+
+.abx2{
+
+color: blue;
+margin-top: 5px;
+margin-left: 500px;
+font-size: 30px;
+font-family: sans-serif;
+}
+
+
+
+
+.yt {
+
+margin-left: 270px;
+display: block;
+width: 240px;
+
+
+
+}
+
+.relogio-200 {
+
+    margin-left: 530px;
+height: 200px;
+
+
+}
+
+
+.logos {
+
+display: flex;
+margin-top: 100px;
+margin-bottom: 0px;
+
+
+}
+
+.letrasabx {
+
+display: flex
+
+
+
+
+
+}
+
+.letrasabx1 {
+
+margin-top: 15px;
+margin-left: 230px;
+font-family: sans-serif;
+font-variant: small-caps;
+font-size: 20px;
+
+}
+
+.letrasabx2 {
+
+    margin-top: 15px;
+    margin-left: 470px;
+    font-family: sans-serif;
+    font-variant: small-caps;
+    font-size: 20px;
+    margin-bottom: 0px;
+
+}
+
+.opcfinal {
+
+display: flex;
+margin-top: 0px;
+margin-bottom: 100px;
+margin-top: 0px;
+
+
+
+
+
+}
+
+.acesso {
+
+    margin-left: 290px;
+     border: blue solid 4px;
+    border-radius: 9px;
+     padding-left: 10px;
+      padding-right: 10px;
+       padding-top: 5px;
+        padding-bottom: 5px;
+         color: white;
+         font-size: 21px;
+         font-weight: bold;
+         text-decoration: none;
+         
+}           
+
+.seja  {
+
+
+    margin-left: 620px;
+     border: #0000ff solid 4px;
+     border-radius: 9px;
+      padding-left: 10px;
+       padding-right: 10px;
+        padding-top: 5px;
+         padding-bottom: 5px;
+          color: white;
+          font-size: 21px;
+        font-weight: bold;
+        margin-top: 0px;
+        text-decoration: none;
+
+}
+
+
+
+
+
+

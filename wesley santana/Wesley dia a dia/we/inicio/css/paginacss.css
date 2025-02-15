@@ -1,0 +1,238 @@
+body {
+
+
+    width: 1500px;
+    background-image: url('IdeonMedia_Home_BG-scaled.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: left center;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    color: WHITE;
+    
+   margin-bottom: 150px;
+   
+
+
+}
+
+.logoinicio {
+
+margin-top: 15px;
+height: 100px;
+
+
+
+}
+
+
+.titulo {
+
+
+
+    
+    padding-bottom: 0px;
+    background-image: url('fundo-do-conceito-de-tecnologia-digital_52683-35037.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: left top;
+    margin-bottom: 52px;
+    border-bottom: 3px white solid;
+    padding-top: 0px;
+    margin-top: 0px;
+    padding-left: 0px;
+    height: 120px;
+    display: flex
+    
+
+
+
+
+
+
+
+}
+
+.fotocss {
+
+width: 1491px;
+margin-left: 1px;
+
+
+
+
+}
+
+h2 {
+
+font-family: sans-serif;
+font-variant: small-caps;
+
+
+
+
+
+
+}
+
+
+
+p {
+
+font-family: sans-serif;
+text-align: center;
+margin-right: auto;
+margin-left: auto;
+font-variant: small-caps;
+font-size: 20px;
+
+
+} 
+
+.exemplo {
+
+
+margin-top: 30px;
+margin-left: 480px;
+
+}
+
+.prof {
+
+display: flex;
+height: 300px;
+margin-left: 150px;
+margin-top: 150px;
+margin-right: 0px
+
+
+
+}
+
+.paragrafoprof {
+
+
+margin-top: 60px;
+margin-left: 40px;
+font-weight: normal;
+
+
+}
+
+.div1 {
+
+display: flex;
+align-items: center;
+
+
+
+
+}
+
+.calendario {
+
+    margin-left: 500px;
+    
+
+
+}
+
+.pcalendario {
+
+    margin-right: 665px;
+    font-family: sans-serif;
+    font-variant: small-caps;
+
+
+}
+
+
+
+.div2 {
+
+    display: flex;
+    align-items: center;
+
+
+}
+
+
+.relogio {
+    margin-left: 500px;
+
+
+
+
+}
+
+.prelogio {
+
+    margin-right: 860px;
+    font-family: sans-serif;
+    font-variant: small-caps;
+
+
+}
+
+
+.div3 {
+
+    display: flex;
+    align-items: center;
+    margin-bottom: 80px;
+
+}
+
+
+
+
+.localizacao {
+
+    margin-left: 500px;
+
+
+
+}
+
+
+
+.plocalizacao {
+
+    margin-right: 885px;
+    font-family: sans-serif;
+    font-variant: small-caps;
+    
+
+
+
+}
+
+
+a:hover {
+
+color: blue;
+
+}
+
+.inscrever {
+ 
+background-image: url('fundo-do-conceito-de-tecnologia-digital_52683-35037.avif');
+background-attachment: fixed;
+background-position: right top;
+display: inline;
+padding: 20px 50px;
+font-size: 25px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: white;
+text-decoration: none;
+margin-bottom: 150px;
+margin-left: 600px;
+border-radius: 30px;
+
+
+
+}
+

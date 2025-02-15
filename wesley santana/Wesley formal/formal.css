@@ -1,0 +1,110 @@
+/* Estilo do corpo da página */
+body {
+    background-color: rgba(17, 135, 214, 0.473); /* Fundo azul claro translúcido */
+    color: white;
+    margin: 0; /* Remove margens padrão */
+    font-family: sans-serif; /* Define a fonte padrão */
+    overflow-x: hidden; /* Remove barra de rolagem horizontal */
+}
+
+/* Seção principal */
+.um {
+    display: flex; /* Usa flexbox */
+    margin-bottom: 400px; /* Espaçamento inferior grande */
+}
+
+/* Estilo para a imagem de fundo */
+.rodateto {
+    background-image: url('foto-perfil.jpg'); /* Adiciona imagem como fundo */
+    position: absolute;
+    padding-bottom: 230px; /* Espaçamento inferior */
+    padding-right: 1500px; /* Espaçamento lateral */
+}
+
+/* Estilo para imagens formais */
+.fotoformal {
+    position: absolute;
+    top: 15px; /* Posição fixa no topo */
+}
+
+/* Estilo para títulos (H1) */
+h1 {
+    background-color: rgba(32, 35, 48, 0.44); /* Fundo translúcido escuro */
+    padding: 40px; /* Espaçamento interno */
+    margin: 0 150px; /* Margens laterais iguais */
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center; /* Centraliza o texto */
+}
+
+/* Informações gerais */
+.info {
+    font-size: 27px;
+    margin: 55px 160px 0; /* Espaçamento superior e lateral */
+    color: rgba(0, 0, 0, 0.74); /* Texto cinza escuro translúcido */
+    font-weight: bold;
+}
+
+/* Estilo para listas (li) */
+li {
+    margin-top: 7px; /* Espaçamento entre itens da lista */
+}
+
+/* Estilo para subtítulos (H2) */
+h2 {
+    background-color: rgba(32, 35, 48, 0.44); /* Fundo translúcido escuro */
+    padding: 37px; /* Espaçamento interno */
+    margin: 70px 150px 0; /* Margens superiores e laterais */
+    font-size: 30px;
+    font-family: sans-serif;
+    text-align: left; /* Alinhado à esquerda */
+    border-bottom: 4px solid white; /* Linha inferior */
+    color: white; /* Cor do texto */
+}
+
+/* Estilo para a seção de formação */
+.formacao {
+    margin-left: 90px; /* Margem lateral esquerda */
+    font-size: 27px; /* Tamanho do texto */
+    color: rgba(0, 0, 0, 0.74); /* Texto cinza escuro translúcido */
+    font-weight: bold;
+}
+
+/* Estilo base para h1 e h2 */
+h1, h2 {
+    transform: translateX(-100%); /* Começa fora da tela à esquerda */
+    opacity: 0; /* Invisível no início */
+    transition: transform 1s ease-out, opacity 1s ease-out; /* Animação suave */
+}
+
+.titulo-secao {
+    background-color: #20233070;
+    padding: 37px;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 30px;
+    margin-top: 70px;
+    font-family: sans-serif;
+    text-align: left;
+    border-bottom: 4px solid white;
+    color: white;
+}
+
+.titulo-secao {
+    transform: translateX(-100%); /* Começa fora da tela à esquerda */
+    opacity: 0; /* Invisível */
+    transition: transform 1s ease-out, opacity 1s ease-out; /* Animação suave */
+    border-radius: 15px;
+    box-shadow: 3px 1px 50px 1px rgba(255, 255, 255, 0.84);
+}
+
+.titulo-secao.visible {
+    transform: translateX(0); /* Volta para a posição original */
+    opacity: 1; /* Torna-se visível */
+}
+
+
+
+
+
+

@@ -1,0 +1,80 @@
+
+/* Configurações globais */
+body {
+    background-color: black;
+    font-family: Arial, sans-serif;
+    color: white;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    margin: 50px auto;
+    font-size: 26px;
+    background-color: rgba(0, 0, 0, 0.9);
+    color: antiquewhite;
+    padding: 20px 40px;
+    border-radius: 10px;
+    display: inline-block;
+    border: 2px solid white;
+    transition: all 0.3s ease-in-out;
+}
+
+h1:hover {
+    color: blue;
+    border-color: rgb(37, 14, 168);
+    box-shadow: 0 0 10px rgb(202, 14, 161);
+    transform: scale(1.1);
+}
+
+/* Container principal */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: 50px;
+}
+
+/* Cartões */
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 115px;
+    margin-right: 115px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    padding: 50px;
+    width: 200px;
+    text-decoration: none;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.card img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.card .label {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    white-space: nowrap;
+    margin-top: 10px;
+}
+
+/* Hover nos cartões */
+.card:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.5);
+}
+
+.card:hover img {
+    transform: scale(1.2);
+}
